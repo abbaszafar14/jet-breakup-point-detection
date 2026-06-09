@@ -33,4 +33,6 @@ This MATLAB code analyzes Mie scattering images to identify and locate the break
 - `src/breakup_detection.m` - Main detection function
 - `examples/sample_usage.m` - Example usage
 
+## Example Result
 
+example_detected.png
